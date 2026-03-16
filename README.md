@@ -13,6 +13,7 @@ This repository is used for practicing DevOps tools and workflows.
 
 
 Day 1 :
+
   Local Machine (WSL Ubuntu)
           │
           ▼
@@ -32,6 +33,8 @@ Port Mapping (Host → Container)
           │
           ▼
 Access → http://localhost
+
+
 Day 2 :
 
                      Terraform (IaC)
